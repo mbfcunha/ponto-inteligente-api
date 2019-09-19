@@ -1,10 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="85f41d74-cc7f-40a6-aaea-19bb076455d7" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
-    </list>
+    <list default="true" id="85f41d74-cc7f-40a6-aaea-19bb076455d7" name="Default Changelist" comment="" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -22,6 +19,7 @@
     <session id="988507089">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
+          <entry key="project.closed" value="1" />
           <entry key="project.open.time.1" value="1" />
           <entry key="project.opened" value="1" />
         </counts>
@@ -73,15 +71,6 @@
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="136">
               <caret line="16" column="14" lean-forward="true" selection-start-line="16" selection-start-column="14" selection-end-line="16" selection-end-column="14" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/.travis.yml">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="36">
-              <caret line="2" column="12" lean-forward="true" selection-start-line="2" selection-start-column="12" selection-end-line="2" selection-end-column="12" />
             </state>
           </provider>
         </entry>
